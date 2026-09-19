@@ -32,13 +32,22 @@ SolveX is being designed to support:
 - English
 - And more
 
-## Project Status
+## Our Mission
 
-🚧 SolveX is currently under development.
+SolveX is built to make learning easier, faster, and more interactive.
 
-## Vision
+Students can use SolveX to understand questions, work through calculations, explore difficult topics, and practice what they learn.
 
-To create a simple, powerful and accessible learning tool that helps students not only get answers, but understand how to arrive at them.
+## Built for Students
+
+SolveX is designed around the way students actually learn:
+
+- See a problem
+- Understand what it is asking
+- Work through the solution
+- Understand the reasoning
+- Practice similar problems
+- Ask follow-up questions
 
 ---
 
